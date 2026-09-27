@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0642b6ef-5497-4208-be91-c5cf52176323" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.nojekyll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amina.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CV.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dr Amina Aziz  CV.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/student-picture.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-01/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-01/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-02/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-02/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-03/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-03/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-04/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-04/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-05/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-05/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-06/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-06/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-07/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-07/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-08/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-08/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-09/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-09/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-10/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-10/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-11/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-11/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-12/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-12/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-13/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-13/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-14/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-14/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-15/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-15/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-16/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-16/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-17/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-17/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-18/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-18/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-19/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-19/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-20/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-20/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-21/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-21/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-22/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-22/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-23/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-24/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-25/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-26/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-27/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-28/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-29/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-30/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-31/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-32/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-33/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-34/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-35/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-36/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-37/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-38/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-39/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-40/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-41/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv-41/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/preview-mobile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/preview.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/preview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/professional-cv.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/professional-cv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple-base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple-nophoto-2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple-nophoto.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple-nophoto.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student-cv.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3JuRj6Ovzp8gwHncRR8Y6seBVMa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/websites/Amin  CV"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0642b6ef-5497-4208-be91-c5cf52176323" name="Changes" comment="" />
+      <created>1790509098889</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790509098889</updated>
+    </task>
+    <servers />
+  </component>
+</project>
