@@ -23,7 +23,7 @@ A comprehensive, print-ready collection of **41 distinct, high-quality A4 CV des
    - Real-time search bar for filtering templates by name, layout type, or ID.
    - Light / Dark theme toggle persisted in `localStorage`.
    - Direct "Open CV" and one-click "Print" triggers for each template card.
-3. **Master ATS Resume (`Bibi.html`)**:
+3. **Master ATS Resume (`Amina.html`)**:
    - Text-focused, highly structured resume template designed for Applicant Tracking Systems (ATS).
 4. **Print & PDF Preservation**:
    - Precise CSS print rules (`@page`, `@media print`) ensuring zero-overflow single-page printing with background graphics retention.
@@ -37,7 +37,7 @@ MY Cv/
 ├── index.html              # Interactive preview gallery dashboard
 ├── Amina.html               # Master ATS-friendly text resume
 ├── 404.html                # Custom 404 page for web hosting
-├── manifest.json           # Catalog metadata for all 40 CV templates
+├── manifest.json           # Catalog metadata for all 41 CV templates
 ├── README.md               # Repository documentation
 ├── preview.css             # Stylesheet for gallery UI
 ├── preview-mobile.css      # Mobile responsive rules for gallery UI
@@ -51,12 +51,12 @@ MY Cv/
 ├── student-cv.css          # Shared stylesheet for student-focused templates (cv-38..cv-40)
 ├── assets/
 │   └── student-picture.jpg # Profile photo reference used in photo-led layouts
-└── cv-01/ ... cv-40/       # 40 individual template directories containing index.html & style.css
+└── cv-01/ ... cv-41/       # 41 individual template directories containing index.html & style.css
 ```
 
 ---
 
-## 🎨 Design Catalog (40 CV Templates)
+## 🎨 Design Catalog (41 CV Templates)
 
 | ID | Design Name | Layout Category | Format / Style | Key Features |
 |---|---|---|---|---|
@@ -124,7 +124,7 @@ To generate accurate single-page A4 PDFs:
 
 - **Candidate**: Amina Bibi
 - **Location**: Raja Ram, Tehsil Shujabad, District Multan, Pakistan
-- **Contact**: [+92 301 9632153](tel:+9230119632153) · [amina.aziz9632153@gmail.com](mailto:amina.aziz9632153@gmail.com)
+- **Contact**: [+92 301 9632153](tel:+923019632153) · [amina.aziz9632153@gmail.com](mailto:amina.aziz9632153@gmail.com)
 - **Education**: Doctor of Physical Therapy (2021–2025), University of Sargodha
 - **Clinical Focus**: Manual Therapy, Therapeutic Modalities, Orthopedic Rehabilitation, Geriatric & Pediatric Physical Therapy
 - **Professional Skills**: Team Work, Team Management, Risk Management, Problem Solving, Communication
